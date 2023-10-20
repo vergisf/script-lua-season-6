@@ -1,0 +1,87 @@
+GiroDaSorte_Config = {
+    Packet = 43,
+
+    WindowID = 43,
+
+    Texts = {
+        ["Por"] = {
+            [1] = "Roleta Premiada",
+            [2] = "Troll - (%s%%)",
+            [3] = "%s - (%s%%)",
+            [4] = "Disponivel até",
+            [5] = "Custo por giro",
+            [6] = "%d %s",
+            [7] = "%d Cristais",
+            [8] = "%d JCPoints",
+            [9] = "%d Diamantes",
+            [10] = "TROLL!",
+            [11] = "Não foi dessa vez :(",
+            [12] = "Tente Novamente!",
+            [13] = "VER ITENS",
+            [14] = "FECHAR",
+            [15] = "GIRAR",
+            [16] = "VOLTAR",
+            [17] = "O valor do giro será descontado da sua conta",
+            [18] = "Clique em OK para confirmar",
+            [19] = "Saldo insuficiente para girar",
+            [20] = "Seu prêmio pode ser retirado no Guardião de Premios",
+            [21] = "localizado em Noria usando comando /npcpremio",
+            [22] = "Troll",
+        },
+		
+		-- bota os script la pra nos
+
+        ["Eng"] = {
+            [1] = "Roleta Premiada",
+            [2] = "Troll - (%s%%)",
+            [3] = "%s - (%s%%)",
+            [4] = "Disponivel até",
+            [5] = "Custo por giro",
+            [6] = "%d %s",
+            [7] = "%d Cristais",
+            [8] = "%d JCPoints",
+            [9] = "%d Diamantes",
+            [10] = "TROLL!",
+            [11] = "Não foi dessa vez :(",
+            [12] = "Tente Novamente!",
+            [13] = "VER ITENS",
+            [14] = "FECHAR",
+            [15] = "GIRAR",
+            [16] = "VOLTAR",
+            [17] = "O valor do giro será descontado da sua conta",
+            [18] = "Clique em OK para confirmar",
+            [19] = "Saldo insuficiente para girar",
+            [20] = "Seu prêmio pode ser retirado no Guardião de Premios",
+            [21] = "localizado em Noria usando comando /npcpremio",
+            [22] = "Troll",
+        },
+
+        ["Spn"] = {
+            [1] = "Roleta Premiada",
+            [2] = "Troll - (%s%%)",
+            [3] = "%s - (%s%%)",
+            [4] = "Disponivel até",
+            [5] = "Custo por giro",
+            [6] = "%d %s",
+            [7] = "%d Cristais",
+            [8] = "%d JCPoints",
+            [9] = "%d Diamantes",
+            [10] = "TROLL!",
+            [11] = "Não foi dessa vez :(",
+            [12] = "Tente Novamente!",
+            [13] = "VER ITENS",
+            [14] = "FECHAR",
+            [15] = "GIRAR",
+            [16] = "VOLTAR",
+            [17] = "O valor do giro será descontado da sua conta",
+            [18] = "Clique em OK para confirmar",
+            [19] = "Saldo insuficiente para girar",
+            [20] = "Seu prêmio pode ser retirado no Guardião de Premios",
+            [21] = "localizado em Noria usando comando /npcpremio",
+            [22] = "Troll",
+        },
+    }
+
+}
+
+return GiroDaSorte_Config
